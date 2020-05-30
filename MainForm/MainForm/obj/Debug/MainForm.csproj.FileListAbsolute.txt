@@ -1,0 +1,33 @@
+C:\Users\win10\Desktop\Проект 3\MainForm\MainForm\obj\Debug\MainForm.csprojAssemblyReference.cache
+C:\Users\win10\Desktop\Проект 3\MainForm\MainForm\obj\Debug\MainWindow.g.cs
+C:\Users\win10\Desktop\Проект 3\MainForm\MainForm\obj\Debug\App.g.cs
+C:\Users\win10\Desktop\Проект 3\MainForm\MainForm\obj\Debug\MainForm_MarkupCompile.cache
+C:\Users\win10\Desktop\Проект 3\MainForm\MainForm\obj\Debug\MainForm_MarkupCompile.lref
+C:\Users\win10\Desktop\Проект 3\MainForm\MainForm\bin\Debug\MainForm.exe.config
+C:\Users\win10\Desktop\Проект 3\MainForm\MainForm\bin\Debug\MainForm.exe
+C:\Users\win10\Desktop\Проект 3\MainForm\MainForm\bin\Debug\MainForm.pdb
+C:\Users\win10\Desktop\Проект 3\MainForm\MainForm\obj\Debug\MainWindow.baml
+C:\Users\win10\Desktop\Проект 3\MainForm\MainForm\obj\Debug\MainForm.g.resources
+C:\Users\win10\Desktop\Проект 3\MainForm\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Users\win10\Desktop\Проект 3\MainForm\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+C:\Users\win10\Desktop\Проект 3\MainForm\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\Проект 3\MainForm\MainForm\obj\Debug\MainForm.exe
+C:\Users\win10\Desktop\Проект 3\MainForm\MainForm\obj\Debug\MainForm.pdb
+C:\Users\win10\Desktop\Проект 3\MainForm\MainForm\obj\Debug\Settings.g.cs
+C:\Users\win10\Desktop\Проект 3\MainForm\MainForm\obj\Debug\Settings.baml
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\MainForm\obj\Debug\MainForm.csprojAssemblyReference.cache
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\MainForm\obj\Debug\MainWindow.g.cs
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\MainForm\obj\Debug\Settings.g.cs
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\MainForm\obj\Debug\App.g.cs
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\MainForm\obj\Debug\MainForm_MarkupCompile.cache
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\MainForm\obj\Debug\MainForm_MarkupCompile.lref
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\MainForm\obj\Debug\MainForm.exe
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\MainForm\obj\Debug\MainForm.pdb
+E:\Работа\_Проги\MainForm\MainForm\obj\Debug\MainForm.csprojAssemblyReference.cache
+E:\Работа\_Проги\MainForm\MainForm\obj\Debug\MainWindow.g.cs
+E:\Работа\_Проги\MainForm\MainForm\obj\Debug\Settings.g.cs
+E:\Работа\_Проги\MainForm\MainForm\obj\Debug\App.g.cs
+E:\Работа\_Проги\MainForm\MainForm\obj\Debug\MainForm_MarkupCompile.cache
+E:\Работа\_Проги\MainForm\MainForm\obj\Debug\MainForm_MarkupCompile.lref
+E:\Работа\_Проги\MainForm\MainForm\obj\Debug\MainForm.exe
+E:\Работа\_Проги\MainForm\MainForm\obj\Debug\MainForm.pdb

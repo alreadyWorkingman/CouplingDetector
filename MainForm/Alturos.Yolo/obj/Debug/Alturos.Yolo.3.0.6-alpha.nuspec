@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Alturos.Yolo</id>
+    <version>3.0.6-alpha</version>
+    <authors>Alturos Destinations</authors>
+    <owners>Alturos Destinations</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/AlturosDestinations/Alturos.Yolo</projectUrl>
+    <description>Yolo Darknet Wrapper, Real-Time Object Detection (yolo core of AlexeyAB/darknet), CUDA 10.1</description>
+    <releaseNotes>.netstandard 2.0 support, add linux support, optimize folder structure</releaseNotes>
+    <tags>darknet yolo yolo3 yolov3 yolo2 yolov2 objectdetection object-detection neural-network dnn deep-learning</tags>
+    <repository url="https://github.com/AlturosDestinations/Alturos.Yolo" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.1">
+        <dependency id="Accord" version="3.8.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Accord" version="3.8.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Win32.Registry" version="4.7.0" exclude="Build,Analyzers" />
+        <dependency id="System.Drawing.Common" version="4.7.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Net.Http" targetFramework=".NETFramework4.6.1" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="D:\Visual Projects\Сцепки-Хуепки\src\Alturos.Yolo\bin\Debug\net461\Alturos.Yolo.dll" target="lib\net461\Alturos.Yolo.dll" />
+    <file src="D:\Visual Projects\Сцепки-Хуепки\src\Alturos.Yolo\bin\Debug\netstandard2.0\Alturos.Yolo.dll" target="lib\netstandard2.0\Alturos.Yolo.dll" />
+    <file src="D:\Visual Projects\Сцепки-Хуепки\src\Alturos.Yolo\dependencies\win\opencv_world411.dll" target="runtimes\win-x64\native\opencv_world411.dll" />
+    <file src="D:\Visual Projects\Сцепки-Хуепки\src\Alturos.Yolo\dependencies\win\yolo_cpp_dll_cpu.dll" target="runtimes\win-x64\native\yolo_cpp_dll_cpu.dll" />
+    <file src="D:\Visual Projects\Сцепки-Хуепки\src\Alturos.Yolo\dependencies\win\yolo_cpp_dll_gpu.dll" target="runtimes\win-x64\native\yolo_cpp_dll_gpu.dll" />
+    <file src="D:\Visual Projects\Сцепки-Хуепки\src\Alturos.Yolo\dependencies\win\pthreadGC2.dll" target="runtimes\win-x64\native\pthreadGC2.dll" />
+    <file src="D:\Visual Projects\Сцепки-Хуепки\src\Alturos.Yolo\dependencies\win\pthreadVC2.dll" target="runtimes\win-x64\native\pthreadVC2.dll" />
+    <file src="D:\Visual Projects\Сцепки-Хуепки\src\Alturos.Yolo\dependencies\win\msvcr100.dll" target="runtimes\win-x64\native\msvcr100.dll" />
+    <file src="D:\Visual Projects\Сцепки-Хуепки\src\Alturos.Yolo\dependencies\linux\yolo_cpp_dll_cpu.so" target="runtimes\linux-x64\native\yolo_cpp_dll_cpu.so" />
+    <file src="D:\Visual Projects\Сцепки-Хуепки\src\Alturos.Yolo\Alturos.Yolo.targets" target="build\Alturos.Yolo.targets" />
+  </files>
+</package>

@@ -1,0 +1,53 @@
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Core\Core\bin\Debug\Core.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Core\Core\bin\Debug\Core.pdb
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Core\Core\obj\Debug\Core.csprojAssemblyReference.cache
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Core\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Core\Core\obj\Debug\Core.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Core\Core\obj\Debug\Core.pdb
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\obj\Debug\Core.csprojAssemblyReference.cache
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\obj\Debug\Core.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\obj\Debug\Core.pdb
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\opencv_world411.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\yolo_cpp_dll_cpu.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\yolo_cpp_dll_gpu.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\pthreadGC2.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\pthreadVC2.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\msvcr100.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\dll\x86\opencv_ffmpeg344.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\dll\x64\opencv_ffmpeg344_64.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\dependencies\win\yolo_cpp_dll_gpu.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\Accord.dll.config
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\Core.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\Core.pdb
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\Accord.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\Accord.Imaging.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\Accord.Math.Core.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\Accord.Math.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\Accord.Statistics.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\Alturos.Yolo.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\OpenCvSharp.Blob.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\OpenCvSharp.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\OpenCvSharp.Extensions.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\Alturos.Yolo.pdb
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\Accord.xml
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\Accord.Imaging.xml
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\Accord.Math.xml
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\Accord.Math.Core.xml
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\Accord.Statistics.xml
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\OpenCvSharp.pdb
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\OpenCvSharp.xml
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\OpenCvSharp.Blob.pdb
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\OpenCvSharp.Blob.xml
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\OpenCvSharp.Extensions.xml
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\РАБ СТОЛ\L4BXR4TXR\Викторов\ПроектСЦЕПКИ\Главная форма Сцепки\MainForm\Core\Core\obj\Debug\Core.csproj.CopyComplete
+E:\Работа\_Проги\MainForm\Core\Core\obj\Debug\Core.csprojAssemblyReference.cache
+E:\Работа\_Проги\MainForm\Core\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+E:\Работа\_Проги\MainForm\Core\Core\obj\Debug\Core.dll
+E:\Работа\_Проги\MainForm\Core\Core\obj\Debug\Core.pdb

@@ -1,0 +1,14 @@
+D:\Visual Projects\Alturos.Yolo\src\Alturos.Yolo\bin\Release\netstandard2.0\opencv_world411.dll
+D:\Visual Projects\Alturos.Yolo\src\Alturos.Yolo\bin\Release\netstandard2.0\yolo_cpp_dll_cpu.dll
+D:\Visual Projects\Alturos.Yolo\src\Alturos.Yolo\bin\Release\netstandard2.0\yolo_cpp_dll_gpu.dll
+D:\Visual Projects\Alturos.Yolo\src\Alturos.Yolo\bin\Release\netstandard2.0\pthreadGC2.dll
+D:\Visual Projects\Alturos.Yolo\src\Alturos.Yolo\bin\Release\netstandard2.0\pthreadVC2.dll
+D:\Visual Projects\Alturos.Yolo\src\Alturos.Yolo\bin\Release\netstandard2.0\msvcr100.dll
+D:\Visual Projects\Alturos.Yolo\src\Alturos.Yolo\bin\Release\netstandard2.0\Alturos.Yolo.deps.json
+D:\Visual Projects\Alturos.Yolo\src\Alturos.Yolo\bin\Release\netstandard2.0\Alturos.Yolo.dll
+D:\Visual Projects\Alturos.Yolo\src\Alturos.Yolo\bin\Release\netstandard2.0\Alturos.Yolo.pdb
+D:\Visual Projects\Alturos.Yolo\src\Alturos.Yolo\obj\Release\netstandard2.0\Alturos.Yolo.csproj.CoreCompileInputs.cache
+D:\Visual Projects\Alturos.Yolo\src\Alturos.Yolo\obj\Release\netstandard2.0\Alturos.Yolo.AssemblyInfoInputs.cache
+D:\Visual Projects\Alturos.Yolo\src\Alturos.Yolo\obj\Release\netstandard2.0\Alturos.Yolo.AssemblyInfo.cs
+D:\Visual Projects\Alturos.Yolo\src\Alturos.Yolo\obj\Release\netstandard2.0\Alturos.Yolo.dll
+D:\Visual Projects\Alturos.Yolo\src\Alturos.Yolo\obj\Release\netstandard2.0\Alturos.Yolo.pdb
